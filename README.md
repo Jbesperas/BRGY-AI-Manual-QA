@@ -11,7 +11,7 @@ The system aims to help residents access basic legal information, prepare docume
 
 Our project includes a mobile application for residents and a web-based administrative system.
 
-[View My 55 Manual Test Cases](BRGY-AI-Manual-Test-Cases.xlsx)
+[View My 55 Manual Test Cases](https://drive.google.com/file/d/1EiXaDCT1vAkLVKxDcNg4788HIoZ3P7ee/view)
 
 ## My Role
 
